@@ -1,5 +1,5 @@
-Hello Security Professional!
-👋 I'm thrilled to introduce you to a world of cybersecurity, penetration testing, and AI/ML mastery. I am a passionate professional aspiring to carve a niche in the dynamic realms of technology and security. With a background in IT and a fervent dedication to learning, I am on a journey towards becoming a master in cybersecurity, ethical hacking, and the integration of AI/ML in the field.
+### Hello Security Professional! 👋🏻
+I'm thrilled to introduce you to a world of cybersecurity, penetration testing, and AI/ML mastery. I am a passionate professional aspiring to carve a niche in the dynamic realms of technology and security. With a background in IT and a fervent dedication to learning, I am on a journey towards becoming a master in cybersecurity, ethical hacking, and the integration of AI/ML in the field.
 
 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aditya-pandey-896109224/)
 
