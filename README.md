@@ -125,7 +125,7 @@ Embark on this exciting journey,Keep learning, exploring, and making a mark in t
 
 ### [IBM Developer - Introduction to AI for Cybersecurity](https://developer.ibm.com/tutorials/apply-machine-learning-cybersecurity-1/)
 
-### [Springboard - AI/ML for Cybersecurity Career Track](https://www.springboard.com/workshops/cybersecurity/ai-ml-for-cybersecurity/)
+### [Springboard - AI/ML for Cybersecurity Career Track](https://www.springboard.com/courses/cyber-security-career-track/)
 
 ### [GitHub - Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 
