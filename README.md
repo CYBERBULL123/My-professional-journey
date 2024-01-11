@@ -75,7 +75,7 @@ Now, let's equip me with the perfect resources for this exciting journey:
      - Apply ML techniques to detect phishing attempts.
 
    - **Resources:**
-     - [🚀 Springboard - AI/ML for Cybersecurity Career Track](https://www.springboard.com/workshops/cybersecurity/ai-ml-for-cybersecurity/)
+     - [🚀 Springboard - AI/ML for Cybersecurity Career Track](https://www.springboard.com/courses/cyber-security-career-track/)
 
 ### **7. Practical Application: 🚀 Building Real-World Projects**
    - **Objective:** Apply skills to tangible projects and scenarios.
