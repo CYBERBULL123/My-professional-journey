@@ -10,7 +10,7 @@ Dive into My thoughts and experiences on cybersecurity through the Medium blog: 
 Now, let's equip me with the perfect resources for this exciting journey:
 
 
-## 🚀 ** My Epic Odyssey in Cybersecurity, Penetration Testing, and AI/ML!**
+## 🚀 My Epic Odyssey in Cybersecurity, Penetration Testing, and AI/ML!**
 
 ### **1. Foundation: 🛠️ Building the Base**
    - **Objective:** Lay a robust foundation in IT and programming.
