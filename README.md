@@ -215,4 +215,4 @@ These resources cover a wide range of topics, from foundational knowledge to adv
    - [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)
    - [Introduction to Reinforcement Learning - OpenAI](https://spinningup.openai.com/)
 
-Happy learning! 🧑‍💻💭
+## Happy learning! 🧑‍💻💭
