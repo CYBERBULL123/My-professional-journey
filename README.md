@@ -103,43 +103,6 @@ Now, let's equip me with the perfect resources for this exciting journey:
 
 Embark on this exciting journey,Keep learning, exploring, and making a mark in the ever-evolving world of cybersecurity and technology 🌐🔍
 
-## Extensive Resources for Each Stage:
-
-### [Google IT Support Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-
-### [edX - Introduction to Computer Science and Programming Using Python - MIT](https://www.edx.org/professional-certificate/introduction-to-computer-science-and-programming)
-
-### [Cybrary - Introduction to Cyber Security](https://www.cybrary.it/course/introduction-cyber-security/)
-
-### [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-
-### [eLearnSecurity - Penetration Testing Student (PTS)](https://www.elearnsecurity.com/course/penetration_testing/)
-
-### [OWASP WebGoat - Web Application Security Learning Platform](https://owasp.org/www-project-webgoat/)
-
-### [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-
-### [edX - Introduction to Artificial Intelligence (AI) - Microsoft](https://www.edx.org/professional-certificate/introduction-to-artificial-intelligence)
-
-### [MIT Sloan - Artificial Intelligence: Implications for Business Strategy](https://executive.mit.edu/openenrollment/ai-machine-learning-business/)
-
-### [IBM Developer - Introduction to AI for Cybersecurity](https://developer.ibm.com/tutorials/apply-machine-learning-cybersecurity-1/)
-
-### [Springboard - AI/ML for Cybersecurity Career Track](https://www.springboard.com/courses/cyber-security-career-track/)
-
-### [GitHub - Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
-
-### [GitHub - Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
-
-### [Dark Reading](https://www.darkreading.com/)
-
-### [MIT Technology Review - Artificial Intelligence](https://www.technologyreview.com/topic/artificial-intelligence/)
-
-### [Reddit - r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
-
-### [LinkedIn Groups - AI and Machine Learning](https://www.linkedin.com/groups/8440112/)
-
-These resources cover a wide range of topics, from foundational knowledge to advanced skills, and they include both theoretical learning and practical application. Use this guide to structure your professional journey and continuously seek new challenges and knowledge in these dynamic fields.
 
 # 🌐 Cybersecurity, AI, and ML Skills Learning Guide 🔍🚀
 
