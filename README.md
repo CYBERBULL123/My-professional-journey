@@ -9,6 +9,15 @@ Dive into My thoughts and experiences on cybersecurity through the Medium blog: 
 
 Now, let's equip me with the perfect resources for this exciting journey:
 
+## Tables of Contents
+[Generative AI Roadmap](https://github.com/CYBERBULL123/My-professional-journey/blob/main/Generative-AI%20Roadmap.md)
+
+[Gen AI Algorithm](https://github.com/CYBERBULL123/My-professional-journey/blob/main/GenAI%20Algorithm.md)
+
+[Cybersecurity ML Algorithm](https://github.com/CYBERBULL123/My-professional-journey/blob/main/Cybersecurity%20ML%20algorithm.md)
+
+[Advanced GenAI Model](https://github.com/CYBERBULL123/My-professional-journey/blob/main/Advanced%20GenAI%20Model.md)
+
 
 ## 🚀 My Epic Odyssey in Cybersecurity, Penetration Testing, and AI/ML!
 
