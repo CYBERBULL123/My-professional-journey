@@ -1,4 +1,4 @@
-*here's a roadmap for a career in generative AI, starting from the basics and progressing to advanced levels, along with estimated timeframes for each phase:*
+## here's a roadmap for a career in generative AI, starting from the basics and progressing to advanced levels, along with estimated timeframes for each phase:
 
 **Phase 1: Foundation (6-12 months)**
 
