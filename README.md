@@ -18,6 +18,7 @@ Now, let's equip me with the perfect resources for this exciting journey:
 
 [Advanced GenAI Model](https://github.com/CYBERBULL123/My-professional-journey/blob/main/Advanced%20GenAI%20Model.md)
 
+[Maths For Machine Learning](https://github.com/CYBERBULL123/My-professional-journey/blob/main/Mathematics%20Topic%20for%20ML.md)
 
 ## 🚀 My Epic Odyssey in Cybersecurity, Penetration Testing, and AI/ML!
 
