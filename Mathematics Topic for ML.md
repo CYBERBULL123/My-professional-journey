@@ -151,7 +151,7 @@ By utilizing these resources, you can gain a deep understanding of the mathemati
 
 3. **AI Research Conferences:** Attend conferences such as NeurIPS, ICML, and ICLR to stay updated on the latest advancements in machine learning and artificial intelligence and network with researchers and practitioners in the field.
 
-## Here are resources specifically tailored to the advanced mathematics topics you mentioned earlier:
+## Here are resources specifically tailored to the advanced mathematics topics 
 
 ### Singular Value Decomposition (SVD):
 
