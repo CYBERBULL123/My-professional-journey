@@ -42,6 +42,17 @@
    - **Types**: Variants include PixelCNN, which models the conditional distribution of pixel values given the previous pixels, and SampleRNN, which generates sequences at multiple time scales.
    - **Importance**: Autoregressive models offer a straightforward approach to generative modeling and have been successful in generating high-fidelity samples across various domains, including images, audio, and text.
 
+7. **RAG (Retrieval-Augmented Generation)**:
+   - **Definition**: RAG is a model architecture that combines a retrieval mechanism with a language generation model. It retrieves relevant information from external knowledge sources before generating text, aiming to improve coherence, relevance, and factual accuracy.
+   - **Key Components**: It consists of a retrieval component, which accesses external knowledge, and a generation component, which produces text based on the retrieved information and input prompt.
+   - **Example**: When generating a story, RAG would retrieve facts and details from a database or knowledge graph to incorporate into the narrative, making it more realistic and engaging.
+
+
+8. **VEU (Vision-Enhanced Understanding)**:
+   - **Definition**: VEU is an approach that combines visual information with natural language understanding tasks, such as question answering or dialogue systems. It leverages both textual and visual inputs to enhance comprehension and reasoning.
+   - **Key Components**: It involves processing both textual and visual information, often using deep learning models such as transformers for language understanding and convolutional neural networks for image processing.
+   - **Example**: In visual question answering, VEU models take an image and a question about the image as input and generate an answer. By considering both the image content and the question, the model can provide more accurate responses.
+
 Generative AI models play a crucial role in various applications, including image and text generation, data augmentation, content creation, and creative expression. They enable machines to understand, create, and interact with data in ways that mimic human intelligence, paving the way for advancements in artificial creativity, storytelling, and problem-solving.
 
 
