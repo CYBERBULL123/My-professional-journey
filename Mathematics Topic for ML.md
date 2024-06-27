@@ -202,3 +202,85 @@ By utilizing these resources, you can gain a deep understanding of the mathemati
    - DeepMind's blog (https://deepmind.com/blog) frequently covers research advancements in GANs and other topics.
 
 These resources should provide you with comprehensive coverage of the advanced mathematics topics you're interested in for machine learning and artificial intelligence.
+
+Here are some highly recommended resources for each topic in the linear algebra syllabus, including textbooks, online courses, and other materials to help you master the subject:
+
+### 1. **Introduction to Linear Algebra**
+   - **Textbooks**: 
+     - "Linear Algebra and Its Applications" by Gilbert Strang
+     - "Introduction to Linear Algebra" by Gilbert Strang
+   - **Online Courses**:
+     - MIT OpenCourseWare: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+     - Khan Academy: [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+   - **Other Resources**:
+     - Paul's Online Math Notes: [Linear Algebra](https://tutorial.math.lamar.edu/Classes/LinAlg/LinAlg.aspx)
+
+### 2. **Vectors and Vector Spaces**
+   - **Textbooks**:
+     - "Linear Algebra Done Right" by Sheldon Axler
+     - "Vector Calculus" by Jerrold E. Marsden and Anthony Tromba
+   - **Online Courses**:
+     - Coursera: [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+   - **Other Resources**:
+     - 3Blue1Brown: [Essence of Linear Algebra](https://www.3blue1brown.com/lessons/linear-algebra-series)
+
+### 3. **Matrices**
+   - **Textbooks**:
+     - "Matrix Analysis and Applied Linear Algebra" by Carl D. Meyer
+     - "Applied Linear Algebra and Matrix Analysis" by Thomas S. Shores
+   - **Online Courses**:
+     - edX: [Linear Algebra - Foundations to Frontiers (LAFF)](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
+   - **Other Resources**:
+     - Interactive matrix calculator: [Symbolab Matrix Calculator](https://www.symbolab.com/matrix-calculator)
+
+### 4. **Systems of Linear Equations**
+   - **Textbooks**:
+     - "Elementary Linear Algebra" by Howard Anton and Chris Rorres
+     - "Linear Algebra: A Modern Introduction" by David Poole
+   - **Online Courses**:
+     - Khan Academy: [Solving Systems of Linear Equations](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations)
+   - **Other Resources**:
+     - Paul's Online Math Notes: [Systems of Linear Equations](https://tutorial.math.lamar.edu/Classes/Alg/SystemsOfEqs.aspx)
+
+### 5. **Eigenvalues and Eigenvectors**
+   - **Textbooks**:
+     - "Introduction to Linear Algebra" by Gilbert Strang
+     - "Linear Algebra and Its Applications" by David C. Lay
+   - **Online Courses**:
+     - MIT OpenCourseWare: [Eigenvalues and Eigenvectors](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/lecture-videos/lecture-16-eigenvalues-and-eigenvectors/)
+   - **Other Resources**:
+     - 3Blue1Brown: [Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+### 6. **Orthogonality and Least Squares**
+   - **Textbooks**:
+     - "Linear Algebra with Applications" by Steven J. Leon
+     - "Numerical Linear Algebra" by Lloyd N. Trefethen and David Bau III
+   - **Online Courses**:
+     - Khan Academy: [Orthogonal Projections and Gram-Schmidt](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections)
+   - **Other Resources**:
+     - Interactive least squares fitting tool: [Desmos Graphing Calculator](https://www.desmos.com/calculator)
+
+### 7. **Advanced Topics**
+   - **Textbooks**:
+     - "Advanced Linear Algebra" by Steven Roman
+     - "Linear Algebra Done Right" by Sheldon Axler
+   - **Online Courses**:
+     - edX: [Advanced Linear Algebra](https://www.edx.org/course/advanced-linear-algebra)
+   - **Other Resources**:
+     - MIT OpenCourseWare: [Advanced Topics in Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-704-seminar-in-algebra-and-number-theory-computational-algebraic-number-theory-fall-2005/)
+
+### General Resources
+   - **Textbooks**:
+     - "Linear Algebra" by Serge Lang
+     - "Linear Algebra: Step by Step" by Kuldeep Singh
+   - **Online Platforms**:
+     - Coursera, edX, Udacity for various courses on linear algebra
+   - **YouTube Channels**:
+     - 3Blue1Brown
+     - Khan Academy
+   - **Software Tools**:
+     - MATLAB
+     - WolframAlpha
+     - Symbolab
+
+These resources should provide you with a comprehensive understanding of linear algebra and help you become proficient in the subject.
